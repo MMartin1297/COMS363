@@ -1,2 +1,6 @@
 # COMS363
-Work from my time taking Introduction to Database Management Systems
+Work from Introduction to Database Management Systems
+
+Repository contains the final project for the class.
+
+
