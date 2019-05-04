@@ -1,0 +1,17 @@
+Matthew Martin Work Log
+Week 01 (Jan 14 - Jan 18): Recieved the information about the final project and read it over to understand what will need to be completed (30 minutes)
+Week 02 (Jan 21 - Jan 25): Selected Travis Stanger as partner of project and discussed initial strategy for completing project. (30 minutes)
+Week 03 (Jan 28 - Feb 01): No work completed
+Week 04 (Feb 04 - Feb 08): No work completed
+Week 05 (Feb 11 - Feb 15): No work completed
+Week 06 (Feb 18 - Feb 22): No work completed
+Week 07 (Feb 25 - Mar 01): Discussed how to complete part 1 by the due date with Travis and talked about inital thoughts of ER diagram layout. (1 hour)
+Week 08 (Mar 04 - Mar 08): Began designing ER diagram on own time (2 hours)
+Week 09 (Mar 11 - Mar 15): Met and discussed my ER diagram and Travis's ER diagram.  Took ideas from both layouts and compiled 1 final ER diagram. Subitted project part 1 (2 hours)
+Week 10 (Mar 18 - Mar 22): Spring Break, No work completed
+Week 11 (Mar 25 - Mar 29): Met to start creating the database design in MYSQL (1 hour)
+Week 12 (Apr 01 - Apr 05): Had a meeting to finish creating the design and import the data (2 hours)
+Week 13 (Apr 08 - Apr 12): I wrote 1 query and Travis wrote 1.  We met to review both queries and make sure they worked successfully.  (2 hours)
+Week 14 (Apr 15 - Apr 19): I wrote 1 more query and Travis wrote 1 more.  We met to review all 4 queries and make sure they worked successfully. Submit project part 2 (3 hours)
+Week 15 (Apr 22 - Apr 26): Had a meeting at beginning of week to create the remaining 6 queries (2 hours). Optimized 4 queries on own time throughout week (1 hour). Had a meeting to go over our tasks and complete the optimization doc (1 hours)
+Week 16 (Apr 29 - May 03): Met 3 times throughout the week with Travis to create the JSP webapplication (Total of 8 hours); Compiled all documents for final submission 3 and test application 1 last time(2 hours)

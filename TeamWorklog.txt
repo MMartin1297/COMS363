@@ -1,0 +1,18 @@
+Team Work Log
+Members: Matthew Martin and Travis Stanger
+Week 01 (Jan 14 - Jan 18): Received information about project and read over it (30 minutes)
+Week 02 (Jan 21 - Jan 25): Decided on group members and discussed project together (30 minutes)
+Week 03 (Jan 28 - Feb 01): No work completed
+Week 04 (Feb 04 - Feb 08): No work completed
+Week 05 (Feb 11 - Feb 15): No work completed
+Week 06 (Feb 18 - Feb 22): No work completed
+Week 07 (Feb 25 - Mar 01): We met to discuss Project Part I and began to think about the layout of the diagram (1 hour)
+Week 08 (Mar 04 - Mar 08): Did not meet; each team member individually created an ER Diagram (2 hours)
+Week 09 (Mar 11 - Mar 15): We met to discuss our ER Diagrams together; used ideas from both to create a finalized ER Diagram and submitted for Project Part I (2 hours)
+Week 10 (Mar 18 - Mar 22): Spring break; no work completed
+Week 11 (Mar 25 - Mar 29): We met to create databases using MySQL Workbench(1 hour)
+Week 12 (Apr 01 - Apr 05): We met to import data into databases using MySQL Workbench (2 hours)
+Week 13 (Apr 08 - Apr 12): We met to discuss the queries we had completed individually; tested each one thoroughly and make sure they worked successfully (2 hours)
+Week 14 (Apr 15 - Apr 19): We met again to discuss the queries we completed individually; tested them and made sure they worked, then finished up Project Part II, and submitted; (3 hours)
+Week 15 (Apr 22 - Apr 26): We met at the beginning of the week and created the 6 remaining queries (2 hours); met at end of week to go over our queries and complete the optimization document perf.pdf (1 hour)
+Week 16 (Apr 29 - May 03): We met three times over the course of the week to work on the JSP web application (8 hours); our final meeting we compiled everything and tested the application before submitting for Project Part III (2 hours)

@@ -1,0 +1,17 @@
+Travis Stanger Work Log
+Week 01 (Jan 14 - Jan 18): Received information about project and read over it (30 minutes)
+Week 02 (Jan 21 - Jan 25): Chose Matthew Martin as partner; discussed project with him (30 minutes)
+Week 03 (Jan 28 - Feb 01): No work completed
+Week 04 (Feb 04 - Feb 08): No work completed
+Week 05 (Feb 11 - Feb 15): No work completed
+Week 06 (Feb 18 - Feb 22): No work completed
+Week 07 (Feb 25 - Mar 01): Discussed Project Part I with Matthew and began thinking about ER Diagram layout (1 hour)
+Week 08 (Mar 04 - Mar 08): Completed an ER Diagram individually to compare later (2 hours)
+Week 09 (Mar 11 - Mar 15): Met with Matthew to discuss our ER Diagrams; used ideas from both to create a final version, and submitted for Project Part I (2 hours)
+Week 10 (Mar 18 - Mar 22): Spring break; no work completed
+Week 11 (Mar 25 - Mar 29): Worked together on creating databases using MySQL Workbench (1 hour)
+Week 12 (Apr 01 - Apr 05): Worked together on importing data into our database using MySQL Workbench(2 hours)
+Week 13 (Apr 08 - Apr 12): I wrote a SQL script individually; met with Matthew to look over our individual queries and ensure that they worked (2 hours)
+Week 14 (Apr 15 - Apr 19): I wrote another SQL script individually; met again with Matthew to look over our queries, ensured that they worked, and submitted all necessary components for Project Part II (3 hours)
+Week 15 (Apr 22 - Apr 26): Met towards beginning of week and created the 4 remaining queries (2 hours); optimized 4 queries during the week (1 hour); met at end of week to go over our queries and complete the perf.pdf (1 hour)
+Week 16 (Apr 29 - May 03): Met Matthew three times throughout the week to work on the JSP web application (8 hours); compiled everything together and tested application before submitting for Project Part III (2 hours)
